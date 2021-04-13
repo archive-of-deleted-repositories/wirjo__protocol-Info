@@ -1,0 +1,24 @@
+{
+  "name": "Index",
+  "description": "The Index Coop is an autonomous asset manager governed, maintained, and upgraded by INDEX token holders.",
+  "path": "index",
+  "folder": "indexCoop",
+  "type": "snapshot",
+  "suffix": "INDEX",
+  "coinGeckoPriceString": "index-cooperative",
+  "tokenContractAddress": "***REMOVED***",
+  "isEnabled": true,
+  "hasOnchain": false,
+  "isHybrid": false,
+  "hasDelegation": false,
+  "snapshotSpaceName": "index",
+  "invalidSnapshots": [
+    "QmQ2s6DsA2jc7ops9BC2KzQwo4rYZLYavisLJvLihpTGvH"
+  ],
+  "branding": {},
+  "discourseForum": {
+    "url": "https://gov.indexcoop.com",
+    "categoryId": "5"
+  },
+  "safeAddress": null
+}

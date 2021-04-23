@@ -1,0 +1,21 @@
+{ 
+	"cname": "ethersocks.eth",
+	"name": "ethersocks.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "ethersocks.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

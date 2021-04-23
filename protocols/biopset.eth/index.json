@@ -1,0 +1,21 @@
+{ 
+	"cname": "biopset.eth",
+	"name": "biopset.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "biopset.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

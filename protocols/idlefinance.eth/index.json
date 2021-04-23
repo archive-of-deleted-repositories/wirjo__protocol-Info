@@ -1,0 +1,21 @@
+{ 
+	"cname": "idlefinance.eth",
+	"name": "idlefinance.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "idlefinance.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

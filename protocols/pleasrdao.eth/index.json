@@ -1,0 +1,21 @@
+{ 
+	"cname": "pleasrdao.eth",
+	"name": "pleasrdao.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "pleasrdao.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

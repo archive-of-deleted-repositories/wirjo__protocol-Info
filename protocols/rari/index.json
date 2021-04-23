@@ -1,0 +1,21 @@
+{ 
+	"cname": "rari",
+	"name": "rari",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "rari",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

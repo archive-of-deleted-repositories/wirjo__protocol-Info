@@ -1,0 +1,21 @@
+{ 
+	"cname": "yfbeta",
+	"name": "yfbeta",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "yfbeta",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

@@ -10,7 +10,6 @@
   "tokenContractAddress": "***REMOVED***",
   "isEnabled": true,
   "hasOnchain": false,
-  "isHybrid": false,
   "hasDelegation": false,
   "snapshotSpaceName": "rarible",
   "invalidSnapshots": [

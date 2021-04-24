@@ -1,0 +1,26 @@
+{ 
+	"cname": "basisdollar.eth",
+	"name": "basisdollar.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "basisdollar.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

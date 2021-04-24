@@ -1,0 +1,26 @@
+{ 
+	"cname": "gov.dhedge.eth",
+	"name": "gov.dhedge.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "gov.dhedge.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

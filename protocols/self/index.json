@@ -1,12 +1,12 @@
 { 
 	"cname": "self",
-	"name": "self",
+	"name": "Self",
 	"description": "",
-	"path": "",
+	"path": "self",
 	"previousPaths": [],
 	"folder": "self",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "SELF",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "self",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

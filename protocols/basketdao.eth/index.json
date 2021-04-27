@@ -1,12 +1,12 @@
 { 
 	"cname": "basketdao.eth",
-	"name": "basketdao.eth",
+	"name": "BasketDAO",
 	"description": "",
-	"path": "",
+	"path": "basketdao.eth",
 	"previousPaths": [],
 	"folder": "basketdao.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "BASKV",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "basketdao.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

@@ -1,12 +1,12 @@
 { 
 	"cname": "yfbeta",
-	"name": "yfbeta",
+	"name": "yfBeta",
 	"description": "",
-	"path": "",
+	"path": "yfbeta",
 	"previousPaths": [],
 	"folder": "yfbeta",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "YFBETA",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "yfbeta",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

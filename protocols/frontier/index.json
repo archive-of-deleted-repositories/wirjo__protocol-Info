@@ -1,12 +1,12 @@
 { 
 	"cname": "frontier",
-	"name": "frontier",
+	"name": "Frontier",
 	"description": "",
-	"path": "",
+	"path": "frontier",
 	"previousPaths": [],
 	"folder": "frontier",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "FRONT",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "frontier",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

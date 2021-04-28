@@ -7,7 +7,7 @@
 	"folder": "ampleforth",
 	"type": "snapshot",
 	"suffix": "AMPL",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "ampleforth",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

@@ -7,7 +7,7 @@
 	"folder": "ethersocks.eth",
 	"type": "snapshot",
 	"suffix": "SOX",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "ethersocks",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

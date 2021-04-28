@@ -7,7 +7,7 @@
 	"folder": "curve",
 	"type": "snapshot",
 	"suffix": "veCRV",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "curve-dao-token",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

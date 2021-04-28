@@ -7,7 +7,7 @@
 	"folder": "floatprotocol",
 	"type": "snapshot",
 	"suffix": "BANK",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "float-protocol",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

@@ -7,7 +7,7 @@
 	"folder": "frontier",
 	"type": "snapshot",
 	"suffix": "FRONT",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "frontier",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

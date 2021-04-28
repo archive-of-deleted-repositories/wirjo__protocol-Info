@@ -7,7 +7,7 @@
 	"folder": "vsp.eth",
 	"type": "snapshot",
 	"suffix": "VVSP",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "vesper-finance",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

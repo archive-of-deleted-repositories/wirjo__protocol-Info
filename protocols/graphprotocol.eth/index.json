@@ -7,8 +7,8 @@
 	"folder": "graphprotocol.eth",
 	"type": "snapshot",
 	"suffix": "GRT",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "null",
+	"coinGeckoPriceString": "the-graph",
+	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {

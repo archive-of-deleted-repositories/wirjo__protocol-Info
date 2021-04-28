@@ -7,7 +7,7 @@
 	"folder": "balancer",
 	"type": "snapshot",
 	"suffix": "BAL",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "balancer",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

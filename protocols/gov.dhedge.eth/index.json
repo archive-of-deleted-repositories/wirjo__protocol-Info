@@ -7,7 +7,7 @@
 	"folder": "gov.dhedge.eth",
 	"type": "snapshot",
 	"suffix": "vDHT",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "dhedge-dao",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

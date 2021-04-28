@@ -7,7 +7,7 @@
 	"folder": "mstable",
 	"type": "snapshot",
 	"suffix": "vMTA",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "meta",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

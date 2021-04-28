@@ -7,7 +7,7 @@
 	"folder": "basisdollar.eth",
 	"type": "snapshot",
 	"suffix": "BSDS",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "basis-dollar",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

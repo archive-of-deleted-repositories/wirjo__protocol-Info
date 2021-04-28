@@ -7,7 +7,7 @@
 	"folder": "premia.eth",
 	"type": "snapshot",
 	"suffix": "PREMIA",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "premia",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

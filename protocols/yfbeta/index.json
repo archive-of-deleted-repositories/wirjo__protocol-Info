@@ -7,7 +7,7 @@
 	"folder": "yfbeta",
 	"type": "snapshot",
 	"suffix": "YFBETA",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "yfbeta",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

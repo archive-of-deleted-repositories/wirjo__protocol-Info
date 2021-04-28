@@ -7,7 +7,7 @@
 	"folder": "truefigov.eth",
 	"type": "snapshot",
 	"suffix": "TRU",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "truefi",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

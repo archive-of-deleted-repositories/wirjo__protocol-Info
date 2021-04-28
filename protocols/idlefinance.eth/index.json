@@ -7,7 +7,7 @@
 	"folder": "idlefinance.eth",
 	"type": "snapshot",
 	"suffix": "IDLE",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "idle",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

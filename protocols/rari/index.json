@@ -7,7 +7,7 @@
 	"folder": "rari",
 	"type": "snapshot",
 	"suffix": "RGT",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "rari-governance-token",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

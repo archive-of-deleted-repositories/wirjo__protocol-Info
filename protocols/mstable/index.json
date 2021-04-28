@@ -1,0 +1,32 @@
+{ 
+	"cname": "mstable",
+	"name": "mStable",
+	"description": "",
+	"path": "mstable",
+	"previousPaths": [],
+	"folder": "mstable",
+	"type": "snapshot",
+	"suffix": "vMTA",
+	"coinGeckoPriceString": "meta",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "mstable",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

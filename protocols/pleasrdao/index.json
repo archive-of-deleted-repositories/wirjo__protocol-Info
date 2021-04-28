@@ -1,0 +1,32 @@
+{ 
+	"cname": "pleasrdao",
+	"name": "PleasrDAO",
+	"description": "",
+	"path": "pleasrdao.eth",
+	"previousPaths": [],
+	"folder": "pleasrdao",
+	"type": "snapshot",
+	"suffix": "✨",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "pleasrdao.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

@@ -1,0 +1,32 @@
+{ 
+	"cname": "pasta",
+	"name": "PastaDAOv0",
+	"description": "",
+	"path": "pasta.eth",
+	"previousPaths": [],
+	"folder": "pasta",
+	"type": "snapshot",
+	"suffix": "PASTA",
+	"coinGeckoPriceString": "spaghetti",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "pasta.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

@@ -1,0 +1,32 @@
+{ 
+	"cname": "dhedge",
+	"name": "dHEDGEDAO",
+	"description": "",
+	"path": "gov.dhedge.eth",
+	"previousPaths": [],
+	"folder": "gov.dhedge.eth",
+	"type": "snapshot",
+	"suffix": "vDHT",
+	"coinGeckoPriceString": "dhedge-dao",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "gov.dhedge.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

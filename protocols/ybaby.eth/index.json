@@ -7,7 +7,7 @@
 	"folder": "ybaby.eth",
 	"type": "snapshot",
 	"suffix": "YFI",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "yearn-finance",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

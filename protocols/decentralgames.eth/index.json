@@ -1,14 +1,14 @@
 { 
 	"cname": "decentralgames",
-	"name": "",
+	"name": "Decentral Games",
 	"description": "",
 	"path": "decentralgames.eth",
 	"previousPaths": [],
 	"folder": "decentralgames.eth",
 	"type": "snapshot",
 	"suffix": "decentral.games",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "null",
+	"coinGeckoPriceString": "decentral-games",
+	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {

@@ -1,0 +1,32 @@
+{ 
+	"cname": "powerpool",
+	"name": "Powerpool",
+	"description": "",
+	"path": "powerpool",
+	"previousPaths": [],
+	"folder": "powerpool",
+	"type": "snapshot",
+	"suffix": "CVP",
+	"coinGeckoPriceString": "powerpool-concentrated-voting-power",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "powerpool",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

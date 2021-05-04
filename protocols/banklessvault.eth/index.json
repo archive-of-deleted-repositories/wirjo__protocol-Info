@@ -1,0 +1,32 @@
+{ 
+	"cname": "banklessvault.eth",
+	"name": "Bankless DAO",
+	"description": "",
+	"path": "banklessvault.eth",
+	"previousPaths": [],
+	"folder": "banklessvault.eth",
+	"type": "snapshot",
+	"suffix": "BANK",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "banklessvault.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

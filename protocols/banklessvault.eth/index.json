@@ -7,7 +7,7 @@
 	"folder": "banklessvault.eth",
 	"type": "snapshot",
 	"suffix": "BANK",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "bankless-dao",
 	"tokenContractAddress": "***REMOVED***",
 	"isEnabled": false,
 	"hasOnchain": false,

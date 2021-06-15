@@ -1,0 +1,32 @@
+{ 
+	"cname": "aave",
+	"name": "Aave",
+	"description": "Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+	"path": "aave",
+	"previousPaths": [],
+	"folder": "aave",
+	"type": "aave",
+	"suffix": "AAVE",
+	"coinGeckoPriceString": "aave",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": true,
+	"hasOnchain": true,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": true,
+	"hasDelegation": true,
+	"snapshotSpaceName": "aave",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

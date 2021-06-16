@@ -1,0 +1,32 @@
+{ 
+	"cname": "indexed",
+	"name": "Indexed",
+	"description": "",
+	"path": "indexed",
+	"previousPaths": [],
+	"folder": "indexed",
+	"type": "compoundish",
+	"suffix": "NDX",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "indexed",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

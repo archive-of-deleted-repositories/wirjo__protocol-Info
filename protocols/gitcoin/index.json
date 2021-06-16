@@ -1,0 +1,32 @@
+{ 
+	"cname": "gitcoin",
+	"name": "",
+	"description": "",
+	"path": "gitcoin",
+	"previousPaths": [],
+	"folder": "gitcoin",
+	"type": "compoundish",
+	"suffix": "GTC",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "gitcoin",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

@@ -28,5 +28,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+	"treasuryAddresses": ["0x3dd46846eed8D147841AE162C8425c08BD8E1b41"]
 }

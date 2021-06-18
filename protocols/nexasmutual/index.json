@@ -1,0 +1,33 @@
+{ 
+	"cname": "nexasmutual",
+	"name": "Nexas Mutual",
+	"description": "",
+	"path": "nexasmutual",
+	"previousPaths": [],
+	"folder": "nexasmutual",
+	"type": "snapshot",
+	"suffix": "NXM",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "nexasmutual",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null,
+	"treasuryAddresses": ["0x586b9b2F8010b284A0197f392156f1A7Eb5e86e9"]
+}

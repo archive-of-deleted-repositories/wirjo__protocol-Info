@@ -1,0 +1,33 @@
+{ 
+	"cname": "tornadocash",
+	"name": "Tornado Cash",
+	"description": "",
+	"path": "tornadocash",
+	"previousPaths": [],
+	"folder": "tornadocash",
+	"type": "snapshot",
+	"suffix": "TORN",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "tornadocash",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null,
+	"treasuryAddresses": ["0x5efda50f22d34F262c29268506C5Fa42cB56A1Ce", "0x179f48C78f57A3A78f0608cC9197B8972921d1D2"]
+}

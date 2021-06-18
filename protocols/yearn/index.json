@@ -1,0 +1,33 @@
+{ 
+	"cname": "yearn",
+	"name": "Yearn",
+	"description": "",
+	"path": "yearn",
+	"previousPaths": [],
+	"folder": "yearn",
+	"type": "snapshot",
+	"suffix": "YFI",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "yearn",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null, 
+	"treasuryAddresses": ["0xfeb4acf3df3cdea7399794d0869ef76a6efaff52"]
+}

@@ -1,0 +1,33 @@
+{ 
+	"cname": "barnbridge",
+	"name": "BarnBridge",
+	"description": "",
+	"path": "barnbridge",
+	"previousPaths": [],
+	"folder": "barnbridge",
+	"type": "snapshot",
+	"suffix": "BOND",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "barnbridge",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null,
+	"treasuryAddresses": ["0x4cAE362D7F227e3d306f70ce4878E245563F3069"]
+}

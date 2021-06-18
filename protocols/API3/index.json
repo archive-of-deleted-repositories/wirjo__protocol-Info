@@ -1,0 +1,33 @@
+{ 
+	"cname": "API3",
+	"name": "API3",
+	"description": "",
+	"path": "API3",
+	"previousPaths": [],
+	"folder": "API3",
+	"type": "snapshot",
+	"suffix": "API3",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "API3",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null,
+	"treasuryAddresses": ["0xe7aF7c5982e073aC6525a34821fe1B3e8E432099"]
+}

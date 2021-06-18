@@ -1,0 +1,33 @@
+{ 
+	"cname": "alchemix",
+	"name": "Alchemix",
+	"description": "",
+	"path": "alchemix",
+	"previousPaths": [],
+	"folder": "alchemix",
+	"type": "snapshot",
+	"suffix": "ALCX",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "alchemix",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null,
+	"treasuryAddresses": ["0x8392f6669292fa56123f71949b52d883ae57e225"]
+}

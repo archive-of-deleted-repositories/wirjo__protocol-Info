@@ -1,0 +1,33 @@
+{ 
+	"cname": "linkswap",
+	"name": "Linkswap",
+	"description": "",
+	"path": "linkswap",
+	"previousPaths": [],
+	"folder": "linkswap",
+	"type": "snapshot",
+	"suffix": "YFL",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "linkswap",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null, 
+	"treasuryAddresses": ["0xE69A81b96FBF5Cb6CAe95d2cE5323Eff2bA0EAE4"]
+}

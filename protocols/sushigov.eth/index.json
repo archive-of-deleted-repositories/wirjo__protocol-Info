@@ -1,0 +1,33 @@
+{ 
+	"cname": "sushiswap",
+	"name": "sushiSwap",
+	"description": "",
+	"path": "sushigov.eth",
+	"previousPaths": [],
+	"folder": "sushigov.eth",
+	"type": "snapshot",
+	"suffix": "SUSHI",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "***REMOVED***",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "sushigov.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null,
+  "treasuryAddresses": ["0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3"]
+}

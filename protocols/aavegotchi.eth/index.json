@@ -9,10 +9,10 @@
 	"suffix": "GHST",
 	"coinGeckoPriceString": "aavegotchi",
 	"tokenContractAddress": "***REMOVED***",
-	"isEnabled": true,
+	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
-		"isClaimed": true,
+		"isClaimed": false,
 		"claimer": "",
 		"signature": ""
 	},

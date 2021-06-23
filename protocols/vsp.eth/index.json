@@ -9,13 +9,8 @@
 	"suffix": "VVSP",
 	"coinGeckoPriceString": "vesper-finance",
 	"tokenContractAddress": "***REMOVED***",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "vsp.eth",

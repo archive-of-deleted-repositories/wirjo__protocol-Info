@@ -9,13 +9,8 @@
 	"suffix": "PASTA",
 	"coinGeckoPriceString": "spaghetti",
 	"tokenContractAddress": "***REMOVED***",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "pasta.eth",

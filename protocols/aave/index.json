@@ -9,7 +9,7 @@
 	"suffix": "AAVE",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "***REMOVED***",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
 	"hasDelegation": false,

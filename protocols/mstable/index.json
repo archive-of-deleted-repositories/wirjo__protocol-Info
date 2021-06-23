@@ -9,13 +9,8 @@
 	"suffix": "vMTA",
 	"coinGeckoPriceString": "meta",
 	"tokenContractAddress": "***REMOVED***",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "mstable",
